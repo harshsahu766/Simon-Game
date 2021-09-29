@@ -1,0 +1,44 @@
+body{
+  background-color: #011F3F;
+  text-align: center;
+
+}
+h1{
+  font-size: 3rem;
+  font-family: fantasy;
+  color: #FEF2BF;
+}
+
+.button{
+  height: 150px;
+  width: 150px;
+  border-radius: 30px;
+  border: 10px solid black;
+  margin: 2% 2% 2% 2%;
+
+}
+
+.green{
+  background-color: green;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+}
+
+.pressed
+{
+  background-color: grey;
+  box-shadow: 0 0 20px white;
+}
+
+.failed
+{
+  background-color: red;
+  opacity: 0.8;
+}
